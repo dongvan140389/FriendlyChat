@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "755194397907",
+    "firebase_url": "https://chatfirebase-4d09d.firebaseio.com",
+    "project_id": "chatfirebase-4d09d",
+    "storage_bucket": "chatfirebase-4d09d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755194397907:android:a8ceba4345207d29",
+        "android_client_info": {
+          "package_name": "com.example.dongvan.chatfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755194397907-u5e1n3fdcm5lrcoi0vpcre49rddcpdn7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dongvan.chatfirebase",
+            "certificate_hash": "b95b092e1db5bdb251849895df103f97d8aeacdc"
+          }
+        },
+        {
+          "client_id": "755194397907-iuhq93rmkdi2as08a3stalu8tseuvthp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKtmxyqFkQLp9tDNoIVe39LuR4mUFDjsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755194397907-iuhq93rmkdi2as08a3stalu8tseuvthp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755194397907:android:b5d75907de594a2d",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755194397907-vgvtko4oia8mnsqv0jd32a1iagjd8hr2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "b95b092e1db5bdb251849895df103f97d8aeacdc"
+          }
+        },
+        {
+          "client_id": "755194397907-iuhq93rmkdi2as08a3stalu8tseuvthp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKtmxyqFkQLp9tDNoIVe39LuR4mUFDjsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755194397907-iuhq93rmkdi2as08a3stalu8tseuvthp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755194397907:android:77528572e197490b",
+        "android_client_info": {
+          "package_name": "com.example.dongvan.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755194397907-5qqdb5s5j3c9s7k6g2o3hkh0b184t5ki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dongvan.friendlychat",
+            "certificate_hash": "b95b092e1db5bdb251849895df103f97d8aeacdc"
+          }
+        },
+        {
+          "client_id": "755194397907-iuhq93rmkdi2as08a3stalu8tseuvthp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKtmxyqFkQLp9tDNoIVe39LuR4mUFDjsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755194397907-iuhq93rmkdi2as08a3stalu8tseuvthp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
